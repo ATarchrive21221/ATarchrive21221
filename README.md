@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Anh Tran! 👋
 
-<!--
-**ATarchrive21221/ATarchrive21221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student at the University of New Brunswick. My interests span across game development, web applications, and AI-related projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills & Technologies
+
+Programming Languages: Python, C, JavaScript, HTML/CSS
+
+Frameworks & Tools: Flask, Selenium, NS-2, Git
+
+Game Development: HTML5 game development (currently I own a game studio!)
+
+Other Interests:  database design (non-SQL solutions) -> One day I want to get rid of SQL altogether
+
+🎮 Projects & Interests
+
+Game Development: Working on an isekai RPG with a medieval setting, infinite grinding mechanics, and permadeath.
+
+AI Detection Tools: Creating a consumer app to identify and rewrite AI-generated text/code as well as spreading awareness about how bad relying on AI can be.
+
+
+📫 Contact Me
+
+Email: atran8@unb.ca 
+
+LinkedIn: https://www.linkedin.com/in/anh-tran-65ab2a189/
+
+
+Thanks for stopping by! Feel free to check out my repositories and projects. 😊
