@@ -2,7 +2,7 @@ Hi, I'm Anh Tran! 👋
 
 🚀 About Me
 
-I'm a Computer Science student at the University of New Brunswick. My interests span across game development, web applications, and AI-related projects.
+I'm a QA Enginner currently working in the public sector, graduated with a Computer Science degree at the University of New Brunswick. My interests span across game development, web applications, and AI-related projects.
 
 🔧 Skills & Technologies
 
